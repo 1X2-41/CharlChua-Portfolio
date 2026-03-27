@@ -8,18 +8,27 @@ Computer Science Student
 ## Projects
 ### React Social Media Blog
 ● Developed using React
+
 ● Implemented CRUD operations and authentication
+
 ● Tech: React, Firebase
+
 ● GitHub: https://github.com/charlchua-ciit/ReactFinals
 
 ### Laravel Gacha Blog
 ● Developed using Laravel
+
 ● Implemented CRUD operations and authentication
+
 ● Tech: Laravel, Firebase
+
 ● GitHub: https://github.com/charlchua-ciit/gacha-blog-finals
 
 ### Skills Summary
 ● Programming: C++, Python, Java, JavaScript, PHP
+
 ● Web Design Frameworks: Laravel, React
+
 ● Tools: Git, GitHub, Docker
+
 ● Database: MySQL, Firebase

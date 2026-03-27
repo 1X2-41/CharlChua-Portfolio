@@ -1,6 +1,6 @@
 ## Introduction
-● Name: Charl Daniel Chua
-● Computer Science Student
+Name: Charl Daniel Chua\n
+Computer Science Student
 [[Download My CV](https://docs.google.com/document/d/1aEbBlNacB_9gzSXT5P997f6d8H1jdGG_L-okAqFr06g/edit?usp=sharing)]
 
 ## Projects
